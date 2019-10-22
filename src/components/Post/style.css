@@ -1,0 +1,43 @@
+
+.post-card {
+  background: #fff;
+  padding: 20px;
+  width: 100%;
+  margin: 10px;
+  box-shadow: 0px 0px 4px #00000040;
+  border-radius: 2px;
+}
+
+.header-card {
+  display: flex;
+  align-items: center;
+  
+}
+.details-card {
+ display: flex;
+ flex-direction: column;
+}
+
+.details-card p {
+  font-weight: bold;
+}
+
+.date-card {
+  font-size: 12px;
+  color: #c7c7c7;
+  
+}
+
+.post-content {
+  margin: 20px 0;
+  border-bottom-width: 20px !important;
+  border-bottom-color: #000;
+}
+
+.divisor-card {
+  border-width: 1px;
+  padding: 0.5px;
+  background: #00000014;
+  border-width: 1;
+  margin: 0px 0px 20px 0px;
+}

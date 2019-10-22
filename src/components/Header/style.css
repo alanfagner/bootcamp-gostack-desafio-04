@@ -1,0 +1,15 @@
+header#main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 5%;
+  height: 64px;
+  background: #4A90E2;
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px
+}
+
+header#main-header #logo-facebook {
+  font-size: 30px
+}

@@ -1,0 +1,14 @@
+.comment{
+  display: flex;
+}
+
+.comment-content {
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  background: #f2f2f2;
+}
+
+.comment {
+  margin-top: 10px;
+}
