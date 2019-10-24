@@ -104,6 +104,11 @@ data.comments.map(comment => <Comment key={comment.id} data={comment} />);
 
 Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-04). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
+## Resultado
+
+<img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-04/blob/master/src/assets/images/Screenshot_2019-10-24_17-00-24.png">
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
